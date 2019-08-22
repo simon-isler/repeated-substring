@@ -1,3 +1,11 @@
+# WELCOME TO THE CHALLENGE
+
+Your pull requests with your solution (any programming language) are warmly welcome!
+
+We are already looking forward to YOUR solution!
+
+Any questions? Ask them in the "issues" tab.
+
 # REPEATED SUBSTRING
 
 # Basis
