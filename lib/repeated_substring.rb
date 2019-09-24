@@ -43,6 +43,6 @@ class RepeatedSubstring # :nodoc:
     else
       result += 'NONE'
     end
-    puts result
+    result
   end
 end
